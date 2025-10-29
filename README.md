@@ -9,6 +9,13 @@ This repository presents the **Integrated Dashboard** developed for the **Pakist
 
 The dashboard consolidates operational, institutional, and sustainability indicators across Pakistan’s major **Border Crossing Points (BCPs)** — **Torkham, Chaman, and Wagah** — providing a data-driven view of trade flows, SLA compliance, infrastructure development, and governance metrics.
 
+<p align="center">
+  <img src="visuals/1.png" width="750"/>
+  <br>
+  <em>Figure: Power BI Overview Page – PLPA Integrated Dashboard</em>
+</p>
+
+
 ---
 
 ## 🎯 Objectives
