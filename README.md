@@ -95,6 +95,6 @@ The dashboard consolidates operational, institutional, and sustainability indica
 **Muhammad Danish**  
 *Technical Specialist (Analytics) – PLPA / ITTMS, FBR*  
 *Business Analytics & Compliance Executive – Howdy Group*  
-📧 danish.hanjra [at] gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-🧮 [GitHub Portfolio](https://github.com/yourusername)
+📧 danish.hanjra@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/chdanish7)  
+🧮 [GitHub Portfolio](https://github.com/danyboycr)
